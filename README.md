@@ -1,2 +1,2 @@
-# Spinners-ejemplos1
-Spiners
+# Carousel-ejemplos1
+Carousel
